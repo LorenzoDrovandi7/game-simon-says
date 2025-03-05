@@ -1,0 +1,36 @@
+#blue {
+  width: 500px;
+  height: 250px;
+  vertical-align: 0;
+}
+
+#red {
+  width: 500px;
+  height: 250px;
+  margin-left: 50px;
+  vertical-align: 0;
+}
+
+#green {
+  width: 500px;
+  height: 250px;
+  margin-top: 50px;
+  vertical-align: 0;
+}
+
+#yellow {
+  width: 500px;
+  height: 250px;
+  margin-top: 50px;
+  margin-left: 50px;
+  vertical-align: 0;
+}
+
+#nav {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#status-text {
+  margin-bottom: 30px;
+}
