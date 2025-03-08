@@ -39,7 +39,7 @@ The game continues until you make a mistake.
 
 # Demo:
 
-Check out the live version here: Simon Says Game on Vercel
+Check out the live version here:
 ([Simon Says Game on Vercel](https://simon-says-dusky.vercel.app/))
 
 # Installation:
