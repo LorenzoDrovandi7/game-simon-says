@@ -1,7 +1,13 @@
+#myButton {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
 #blue {
   width: 500px;
   height: 250px;
   vertical-align: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #red {
@@ -9,6 +15,8 @@
   height: 250px;
   margin-left: 50px;
   vertical-align: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #green {
@@ -16,6 +24,8 @@
   height: 250px;
   margin-top: 50px;
   vertical-align: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #yellow {
@@ -24,6 +34,8 @@
   margin-top: 50px;
   margin-left: 50px;
   vertical-align: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #nav {
@@ -33,4 +45,21 @@
 
 #status-text {
   margin-bottom: 30px;
+}
+
+.pressed-effect {
+  transform: scale(1.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+body {
+  transition: background-color 1.5s ease;
+}
+
+.color-button {
+  transition: transform 0.2s ease;
+}
+
+.color-button:active {
+  transform: scale(0.9);
 }
