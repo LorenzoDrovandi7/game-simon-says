@@ -46,15 +46,19 @@ Check out the live version here:
 
 If you want to run this project locally:
 
-1 Clone the repository:
+### 1-Clone the repository:
 
+```bash
 git clone https://github.com/your-username/simon-says-game.git
+```
 
-2 Navigate to the project directory:
+### 2-Navigate to the project directory:
 
+```bash
 cd simon-says-game
+```
 
-3 Open index.html in your browser to play the game locally.
+### 3-Open index.html in your browser to play the game locally.
 
 Contribution:
 Feel free to fork this repository and submit pull requests with improvements or new features. Contributions are always welcome!
