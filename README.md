@@ -49,7 +49,7 @@ If you want to run this project locally:
 ### 1-Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/LorenzoDrovandi7/simon-says-game.git
 ```
 
 ### 2-Navigate to the project directory:
